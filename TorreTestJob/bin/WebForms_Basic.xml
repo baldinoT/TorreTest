@@ -37,15 +37,6 @@ TorreTestJob
  Devuelve el objeto de registro Asp.
  </summary>
 </member>
-<member name="F:TorreTestJob.frmUserName._form1">
-<summary>
-control form1.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
 <member name="F:TorreTestJob.SiteMaster._MainContent">
 <summary>
 Control MainContent.
@@ -247,6 +238,141 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 <member name="F:TorreTestJob.Site_Mobile._ViewSwitcher1">
 <summary>
 Control ViewSwitcher1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._picture">
+<summary>
+Control picture.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._txtobjective">
+<summary>
+Control txtobjective.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._remote">
+<summary>
+Control remote.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._anywhere">
+<summary>
+Control anywhere.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._serpTagstitle">
+<summary>
+Control serpTagstitle.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._description">
+<summary>
+Control description.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._identifiername">
+<summary>
+Control identifiername.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._logo">
+<summary>
+Control logo.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._validthrough">
+<summary>
+Control validthrough.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._basesalary">
+<summary>
+Control basesalary.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._ownername">
+<summary>
+Control ownername.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._ownerpicture">
+<summary>
+Control ownerpicture.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._agreementype">
+<summary>
+Control agreementype.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._MyTableDetails">
+<summary>
+Control MyTableDetails.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.WebFormJobInformation._MytableApplicantLocationRequirements">
+<summary>
+Control MytableApplicantLocationRequirements.
 </summary>
 <remarks>
 Campo generado automáticamente.
