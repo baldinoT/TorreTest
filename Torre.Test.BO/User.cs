@@ -32,9 +32,9 @@ namespace Torre.Test.BO
 
     public class Link
     {
-        public string id { get; set; }
-        public string name { get; set; }
-        public string address { get; set; }
+        public string id { get; set; }  
+        public string name { get; set; }    
+        public string address { get; set; } 
     }
 
     public class Location
@@ -60,7 +60,7 @@ namespace Torre.Test.BO
         public string picture { get; set; }
         public bool hasEmail { get; set; }
         public string name { get; set; }
-        public List<Link> links { get; set; }
+        public List<Link> links { get; set; }   
         public Location location { get; set; }
         public string theme { get; set; }
         public string id { get; set; }
@@ -273,6 +273,8 @@ namespace Torre.Test.BO
         public List<Education> education { get; set; }
         public List<Opportunity> opportunities { get; set; }
         public List<Language> languages { get; set; }
+        
+
         public PersonalityTraitsResults personalityTraitsResults { get; set; }
         public ProfessionalCultureGenomeResults professionalCultureGenomeResults { get; set; }
     }

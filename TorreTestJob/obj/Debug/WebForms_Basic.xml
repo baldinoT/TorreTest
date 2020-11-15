@@ -37,9 +37,162 @@ TorreTestJob
  Devuelve el objeto de registro Asp.
  </summary>
 </member>
+<member name="F:TorreTestJob.frmUserName._form1">
+<summary>
+control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:TorreTestJob.SiteMaster._MainContent">
 <summary>
 Control MainContent.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._linkId">
+<summary>
+Control linkId.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._txtUserName">
+<summary>
+Control txtUserName.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._picture">
+<summary>
+Control picture.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._Table2">
+<summary>
+Control Table2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._Instagram">
+<summary>
+Control Instagram.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._fullname">
+<summary>
+Control fullname.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._professionalHeadLine">
+<summary>
+Control professionalHeadLine.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._Facebook">
+<summary>
+Control Facebook.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._Linkedin">
+<summary>
+Control Linkedin.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._Instagram1">
+<summary>
+Control Instagram1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._MyTableLocation">
+<summary>
+Control MyTableLocation.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._MyTableExperiences">
+<summary>
+Control MyTableExperiences.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._MyTableJobs">
+<summary>
+Control MyTableJobs.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._MyTableEducation">
+<summary>
+Control MyTableEducation.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._MyTableProjects">
+<summary>
+Control MyTableProjects.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TorreTestJob.UserNameWithMaster._MyTableLanguages">
+<summary>
+Control MyTableLanguages.
 </summary>
 <remarks>
 Campo generado automáticamente.
