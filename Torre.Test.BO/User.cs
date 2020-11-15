@@ -81,13 +81,15 @@ namespace Torre.Test.BO
 
     public partial class Strength
     {
-        public string id { get; set; }
-        public int code { get; set; }
-        public string name { get; set; }
-        public int weight { get; set; }
-        public int recommendations { get; set; }
-        public List<object> media { get; set; }
-        public DateTime created { get; set; }
+        //public string id { get; set; } //elbt15112020
+        protected string id { get; set; }  //agbt15112020
+        //public int code { get; set; }  //elbt15112020
+        protected int code { get; set; }   //agbt15112020
+        protected string name { get; set; }   //mdbt15112020: public string name { get; set; } 
+        protected int weight { get; set; }     //mdbt15112020: public int weight { get; set; } 
+        protected int recommendations { get; set; } //mdbt15112020: public int recommendations { get; set; }
+        protected List<object> media { get; set; }  //mdbt15112020: public List<object> media { get; set; }
+        protected DateTime created { get; set; }   //mdbt15112020: public DateTime created { get; set; }
     }
 
     public class Interest
@@ -101,9 +103,9 @@ namespace Torre.Test.BO
 
     public partial class Organization
     {
-        public int id { get; set; }
-        public string name { get; set; }
-        public string picture { get; set; }
+        protected int id { get; set; }        //md15112020:  public int id { get; set; }
+        protected string name { get; set; }        //mdbt public string name { get; set; }
+        protected string picture { get; set; }      //mdbt public string picture { get; set; }
     }
 
     public class Experience
