@@ -14,10 +14,10 @@ Public Class About
         Dim Response As IRestResponse = client.Execute(request)
         Dim contenido = JsonConvert.DeserializeObject(Of User)(Response.Content)
 
-        For Each aa As Experience In contenido.experiences
-            Debug.Print(aa.category, aa.id)
+        'For Each aa As Experience In contenido.experiences
+        '    Debug.Print(aa.category, aa.id)
 
-        Next
+        'Next
 
     End Sub
 End Class

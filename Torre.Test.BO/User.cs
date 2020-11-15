@@ -79,7 +79,7 @@ namespace Torre.Test.BO
         public int projects { get; set; }
     }
 
-    public class Strength
+    public partial class Strength
     {
         public string id { get; set; }
         public int code { get; set; }
@@ -99,7 +99,7 @@ namespace Torre.Test.BO
         public DateTime created { get; set; }
     }
 
-    public class Organization
+    public partial class Organization
     {
         public int id { get; set; }
         public string name { get; set; }
