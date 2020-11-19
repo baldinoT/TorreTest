@@ -1,0 +1,9 @@
+C:\TorreTest\TorreTest\Torre.Test.BO\bin\Debug\Torre.Test.BO.dll
+C:\TorreTest\TorreTest\Torre.Test.BO\bin\Debug\Torre.Test.BO.pdb
+C:\TorreTest\TorreTest\Torre.Test.BO\obj\Debug\Torre.Test.BO.csprojAssemblyReference.cache
+C:\TorreTest\TorreTest\Torre.Test.BO\obj\Debug\Torre.Test.BO.csproj.CoreCompileInputs.cache
+C:\TorreTest\TorreTest\Torre.Test.BO\obj\Debug\Torre.Test.BO.dll
+C:\TorreTest\TorreTest\Torre.Test.BO\obj\Debug\Torre.Test.BO.pdb
+C:\TorreTest\TorreTest\Torre.Test.BO\bin\Debug\Newtonsoft.Json.dll
+C:\TorreTest\TorreTest\Torre.Test.BO\bin\Debug\Newtonsoft.Json.xml
+C:\TorreTest\TorreTest\Torre.Test.BO\obj\Debug\Torre.Test.BO.csproj.CopyComplete
